@@ -1,0 +1,6 @@
+aaaa|bbbbbbbbbb|Jamon Y queso|2|Napolitana|3
+aaaa|bbbbbbbbbb|Jamon Y queso|2|Napolitana|6
+aaaa|bbbbbbbbbb|Jamon Y queso|2|Muzzarella|10
+cccccc|ttttttt|Napolitana|4|Muzzarella|6
+sss|jjjjjjj|Napolitana|3|Muzzarella|1
+sss|jjjjjjj|Jamon Y queso|2|Napolitana|3|Muzzarella|1
